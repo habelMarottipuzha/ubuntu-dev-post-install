@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# Java
+function eclipse {
+	# Variables
+	PACKAGE=eclipse
+	PPANAME=ppa:webupd8team/java
+	NAME="Eclipse"
+ 
+}
